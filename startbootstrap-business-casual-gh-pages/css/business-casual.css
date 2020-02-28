@@ -233,7 +233,7 @@ p {
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #FFC0CB !important;
 }
 
 .btn {
@@ -242,7 +242,7 @@ p {
 
 .btn-primary {
   background-color: #e6a756;
-  border-color: #e6a756;
+  border-color: #FFC0CB;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -253,3 +253,4 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
